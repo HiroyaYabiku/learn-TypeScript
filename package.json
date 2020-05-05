@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/HiroyaYabiku/learn-TypeScript#readme",
   "devDependencies": {
+    "ts-node": "^8.10.1",
     "typescript": "^3.8.3"
   }
 }
